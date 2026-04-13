@@ -1,3 +1,16 @@
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# VS Code local history / workspace
+.history/
+*.code-workspace
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
